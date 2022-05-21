@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\res\\merged\\debug\\layout_loginsample.xml.flat",
+        "source": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\layout\\loginsample.xml"
+    },
+    {
+        "merged": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\res\\merged\\debug\\layout_details.xml.flat",
+        "source": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\layout\\details.xml"
+    },
+    {
+        "merged": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\res\\merged\\debug\\layout_loginpage.xml.flat",
+        "source": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\layout\\loginpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\res\\merged\\debug\\transition_grid_detail_transition.xml.flat",
+        "source": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\transition\\grid_detail_transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\res\\merged\\debug\\layout_data.xml.flat",
+        "source": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\layout\\data.xml"
+    },
+    {
+        "merged": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_suma.jpg.flat",
+        "source": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\drawable-hdpi\\suma.jpg"
+    },
+    {
+        "merged": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\res\\merged\\debug\\layout_grid_item.xml.flat",
+        "source": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tile.9.png.flat",
+        "source": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\res\\merged\\debug\\layout_grid.xml.flat",
+        "source": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\layout\\grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add.xml.flat",
+        "source": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\res\\merged\\debug\\layout_recycle.xml.flat",
+        "source": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\layout\\recycle.xml"
+    }
+]

@@ -1,0 +1,50 @@
+com/example/android/activityscenetransitionbasic/network/myapi.java
+ com.example.android.activityscenetransitionbasic.network.myapi
+com/example/android/activityscenetransitionbasic/databinding/GridItemBinding.java
+ com.example.android.activityscenetransitionbasic.databinding.GridItemBinding
+com/example/android/activityscenetransitionbasic/model/Item.java
+ com.example.android.activityscenetransitionbasic.model.Item
+com/example/android/activityscenetransitionbasic/databinding/LoginpageBinding.java
+ com.example.android.activityscenetransitionbasic.databinding.LoginpageBinding
+com/example/android/activityscenetransitionbasic/databinding/DetailsBinding.java
+ com.example.android.activityscenetransitionbasic.databinding.DetailsBinding
+com/example/android/activityscenetransitionbasic/ui/DataActivity.java
+ com.example.android.activityscenetransitionbasic.ui.DataActivity
+ com.example.android.activityscenetransitionbasic.ui.DataActivity$1
+ com.example.android.activityscenetransitionbasic.ui.DataActivity$2
+com/example/android/activityscenetransitionbasic/ui/MainActivity.java
+ com.example.android.activityscenetransitionbasic.ui.MainActivity
+ com.example.android.activityscenetransitionbasic.ui.MainActivity$1
+ com.example.android.activityscenetransitionbasic.ui.MainActivity$GridAdapter
+com/example/android/activityscenetransitionbasic/databinding/DataBinding.java
+ com.example.android.activityscenetransitionbasic.databinding.DataBinding
+com/example/android/activityscenetransitionbasic/databinding/LoginsampleBinding.java
+ com.example.android.activityscenetransitionbasic.databinding.LoginsampleBinding
+com/example/android/activityscenetransitionbasic/ui/Internet.java
+ com.example.android.activityscenetransitionbasic.ui.Internet
+com/example/android/activityscenetransitionbasic/databinding/GridBinding.java
+ com.example.android.activityscenetransitionbasic.databinding.GridBinding
+com/example/android/activityscenetransitionbasic/databinding/RecycleBinding.java
+ com.example.android.activityscenetransitionbasic.databinding.RecycleBinding
+com/example/android/activityscenetransitionbasic/ui/MyReceiver.java
+ com.example.android.activityscenetransitionbasic.ui.MyReceiver
+ com.example.android.activityscenetransitionbasic.ui.MyReceiver$1
+ com.example.android.activityscenetransitionbasic.ui.MyReceiver$2
+com/example/android/activityscenetransitionbasic/model/Student.java
+ com.example.android.activityscenetransitionbasic.model.Student
+com/example/android/activityscenetransitionbasic/ui/AddActivity.java
+ com.example.android.activityscenetransitionbasic.ui.AddActivity
+ com.example.android.activityscenetransitionbasic.ui.AddActivity$1
+ com.example.android.activityscenetransitionbasic.ui.AddActivity$2
+com/example/android/activityscenetransitionbasic/BuildConfig.java
+ com.example.android.activityscenetransitionbasic.BuildConfig
+com/example/android/activityscenetransitionbasic/ui/DetailActivity.java
+ com.example.android.activityscenetransitionbasic.ui.DetailActivity
+ com.example.android.activityscenetransitionbasic.ui.DetailActivity$1
+ com.example.android.activityscenetransitionbasic.ui.DetailActivity$2
+com/example/android/activityscenetransitionbasic/network/ApiClient.java
+ com.example.android.activityscenetransitionbasic.network.ApiClient
+com/example/android/activityscenetransitionbasic/databinding/ActivityAddBinding.java
+ com.example.android.activityscenetransitionbasic.databinding.ActivityAddBinding
+com/example/android/activityscenetransitionbasic/model/Job.java
+ com.example.android.activityscenetransitionbasic.model.Job

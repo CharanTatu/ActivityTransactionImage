@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\grid_item.xml",
+        "source": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\data.xml",
+        "source": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\layout\\data.xml"
+    },
+    {
+        "merged": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\details.xml",
+        "source": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\layout\\details.xml"
+    },
+    {
+        "merged": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\recycle.xml",
+        "source": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\layout\\recycle.xml"
+    },
+    {
+        "merged": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\loginpage.xml",
+        "source": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\layout\\loginpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\grid.xml",
+        "source": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\layout\\grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add.xml",
+        "source": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\loginsample.xml",
+        "source": "C:\\Users\\6007871\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\layout\\loginsample.xml"
+    }
+]
